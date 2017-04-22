@@ -2,7 +2,7 @@
 
 # arrays with prefixes and extensions
 prefixes=('awesome_' 'great_' 'super_' 'ultra_' 'weta_')
-ext=('jpg' 'png' 'txt')
+ext=('jpg' 'png' 'gif')
 
 # amount of files to generate
 NOFILES=1000
