@@ -40,9 +40,13 @@ In order to prepare sample data, following BASH script should be run:
 ./0-generateFiles.sh
 ```
 
-## Renaming files withing sequence
+## Renaming files within sequence
 
 In order to rename files withing sequences, followign Python script should be run:
 ```
 python 1-renameSequences.py ./data
 ```
+
+## Demo
+
+![demo](https://github.com/rjonczy/RenameSequenceFiles/blob/master/doc/demo.gif "Usage example")
