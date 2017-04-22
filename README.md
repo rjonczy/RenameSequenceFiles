@@ -42,11 +42,11 @@ In order to prepare sample data, following BASH script should be run:
 
 ## Renaming files within sequence
 
-In order to rename files withing sequences, followign Python script should be run:
+In order to rename files withing sequences, following Python script should be run:
 ```
 python 1-renameSequences.py ./data
 ```
 
-## Demo
+## Usage example
 
 ![demo](https://github.com/rjonczy/RenameSequenceFiles/blob/master/doc/demo.gif "Usage example")
